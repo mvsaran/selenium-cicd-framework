@@ -7,7 +7,7 @@
 ## 📸 Pipeline Overview
 
 ### Jenkins Pipeline Execution
-![Jenkins Pipeline Overview](pipeline-overview.png)
+<img width="1483" height="517" alt="image" src="https://github.com/user-attachments/assets/d699ae99-a701-46f6-a01f-b8fc68656d22" />
 
 ### Jenkinsfile Configuration
 ![Jenkinsfile Configuration](jenkinsfile-config.png)
