@@ -2,14 +2,8 @@ pipeline {
     agent any
 
     environment {
-        RECIPIENT = 'mvsarankumar@gmail.com'
+        RECIPIENT = 'mvsarankumar@gmail.com' // Replace with actual email
     }
-
-    tools {
-        maven 'maven3'
-        jdk 'jdk17'
-    }
-
     stages {
 
         stage('Run Test Suites') {
